@@ -18,4 +18,9 @@
 <h3 align="center">Black Rose</h3>
 <p align="center">A Browser Based Classic Text-Based MMORPG</p>
 <p align="center"> <img src="https://user-images.githubusercontent.com/72863189/222863638-db873632-ba1b-4e93-b65d-850e7fb29c75.png" alt="shn3g" /> </p>
+
+![image](https://user-images.githubusercontent.com/72863189/222864035-0414422b-86f5-49c7-8d92-b56403c51b29.png)
+![image](https://user-images.githubusercontent.com/72863189/222864359-e963bf3f-01d4-4fe2-9b58-43d727f90106.png)
+
+
 <p align="center"><a href="https://blackrose.shneg.com/home"><img src="https://img.shields.io/website-up-down-green-red/https/naereen.github.io.svg" alt="Personal Project https://shneg.com/"></a></p>
