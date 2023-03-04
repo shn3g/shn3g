@@ -11,5 +11,11 @@
 
 <br>
 <br>
-
+<p align="center">Personal Website</p>
 <p align="center"><a href="https://shneg.com/"><img src="https://img.shields.io/website-up-down-green-red/https/naereen.github.io.svg" alt="Website https://shneg.com/"></a></p>
+
+<h2 align="center">Personal Project</h2>
+<h3 align="center">Black Rose</h3>
+<p align="center">A Browser Based Classic Text-Based MMORPG</p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/72863189/222863638-db873632-ba1b-4e93-b65d-850e7fb29c75.png" alt="shn3g" /> </p>
+<p align="center"><a href="https://blackrose.shneg.com/home"><img src="https://img.shields.io/website-up-down-green-red/https/naereen.github.io.svg" alt="Personal Project https://shneg.com/"></a></p>
