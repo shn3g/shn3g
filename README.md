@@ -15,12 +15,25 @@
 <p align="center"><a href="https://shneg.com/"><img src="https://img.shields.io/website-up-down-green-red/https/naereen.github.io.svg" alt="Website https://shneg.com/"></a></p>
 
 <h2 align="center">Personal Project</h2>
-<h3 align="center">Black Rose</h3>
+<h3 align="center">Rogue Seas</h3>
 <p align="center">A Browser Based Classic Text-Based MMORPG</p>
-<p align="center"> <img src="https://user-images.githubusercontent.com/72863189/222863638-db873632-ba1b-4e93-b65d-850e7fb29c75.png" alt="shn3g" /> </p>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/7392b4e7-b010-485c-945d-faf019e5755e" alt="rogueseas_home_title" />
+</p>
 
-![image](https://user-images.githubusercontent.com/72863189/222864035-0414422b-86f5-49c7-8d92-b56403c51b29.png)
-![image](https://user-images.githubusercontent.com/72863189/222864359-e963bf3f-01d4-4fe2-9b58-43d727f90106.png)
+![image](https://github.com/user-attachments/assets/2c039602-12a4-43f2-8e4d-14439a1faad7)
+![image](https://github.com/user-attachments/assets/937fb246-96bc-449f-a868-6c0798226a13)
+
+![image](https://github.com/user-attachments/assets/92a12606-d831-4064-99bf-b2ec0df9f0ef)
+![image](https://github.com/user-attachments/assets/1584f8be-936a-4b15-8460-28581bcc4579)
+
+![image](https://github.com/user-attachments/assets/44d8fa3e-5471-41cb-bbe3-46715abd3223)
+![image](https://github.com/user-attachments/assets/1d51e654-910f-4d23-b69e-65cc459146cf)
+
+![image](https://github.com/user-attachments/assets/189aaff4-4baa-470e-84a0-fa42d3373d6e)
+![image](https://github.com/user-attachments/assets/6442c1cc-4245-4fa3-b540-7232c1e189d4)
+
+
 
 
 <p align="center"><a href="https://blackrose.shneg.com/home"><img src="https://img.shields.io/website-up-down-green-red/https/naereen.github.io.svg" alt="Personal Project https://shneg.com/"></a></p>
